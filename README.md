@@ -18,3 +18,8 @@
         <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
     </a>
 </p>
+
+
+
+This is my first project for learnig swift server side using vapor framework and its architecture.
+This swift server displays "Hello world!" at www.localhost:8080/hello
